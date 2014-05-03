@@ -1,0 +1,31 @@
+{
+  "name": "thelpers",
+  "version": "0.0.1",
+  "description": "set of template helpers",
+  "main": "index.js",
+  "dependencies": {
+    "dis": "~0.2.4",
+    "moment": "~2.6.0",
+    "node.extend": "~1.0.10",
+    "string": "~1.8.1",
+    "truncatise": "~0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mutnt/thelpers.git"
+  },
+  "keywords": [
+    "template",
+    "helpers"
+  ],
+  "author": "xananax@mutnt.net",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mutnt/thelpers/issues"
+  },
+  "homepage": "https://github.com/mutnt/thelpers"
+}
